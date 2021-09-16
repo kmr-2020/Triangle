@@ -1,0 +1,62 @@
+nav {
+    background-color: #80ced7;
+    height: 150px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 0;
+    }
+.logo img {
+    float: left;
+    height: 145px;
+    width: 150px;
+    border: black solid;
+    }
+.triangle-up {
+    float: left;
+    width: 0;
+    height: 0;
+    border-style: inset;
+    border-width: 0 150px 150px 150px;
+    border-color: transparent transparent #4d908e transparent;
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    padding-bottom: 0%;
+    padding-top: 0px;
+    }
+.triangle-up a:hover{
+    position:absolute;
+    width: 0;
+    height: 0;
+    border-style: inset;
+    border-width: 0 150px 150px 150px;
+    border-color: transparent transparent #f0a6ca transparent;
+    padding-bottom: 0%;
+    padding-top: 0px;
+    margin-top: -0px;
+    margin-left: -125px;
+  }
+.triangle-up a {
+    text-decoration-color: #577590 ;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+   top: 75px;
+   left: -55px;
+   position: relative;
+   width: 90px;
+   height: 90px;
+   margin: 5px; 
+   padding-top: 10px;
+   display: inline-block
+}
+
+body {background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url("https://naxah3fx8652fpxjz9g08gwf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Mountains_stock_UIAA.jpg");
+    background-size: cover;
+    }
+
+    
+
